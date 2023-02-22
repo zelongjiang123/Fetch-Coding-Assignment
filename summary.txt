@@ -1,0 +1,20 @@
+1. I chose JAVA because I am most proficient with JAVA. Also, I wrote a CSV parser before using JAVA. 
+The JAVA.io library is used to handle the input csv file. The JAVA.util library is used to create Hashmap and priority queues.
+
+2. 
+Advantage: Creating transaction class can better store the transaction information and it can also be sorted based on the date attribute. 
+Using priority queue can help improve time complexity, which takes O(nlogn). The code are easy to read
+Disadvantage: extra memory to store the hashmap and priority queue, which take O(n)
+
+3. My favorite project was Intelligent Software for College Students to Help Improve Their Scores of Physical Fitness Tests Efficiently 
+based on C++ when I was at Nankai University. At that time, I found that many students could not pass the physical fitness tests, which 
+might influence their graduation so I decided to design this program which could help college students calculate their scores for each 
+sport item and the total score after weighted calculation and provide a set of algorithms to work out the best and most effective  
+promotion scheme after analyzing the data of physical fitness tests. This project is my favorite one because that was the first time  
+I have ever worked on a project which solved practical problems. I also received some positive feedback from my friends who used my  
+program and eventually passed the tests without paying extra effort. Besides, I learned a lot through this experience. As a beginner  
+at that time, I tried to write all codes in one single function and file. During the debugging process, I found it very difficult to  
+pinpoint the problem in the long large function. Then I realized that I should add more helper functions and reduce the length of the  
+main function to achieve the same goal, increasing the readability and efficiency of the code. Through this project, I understand that  
+when facing a complicated question, it’s better to divide this problem into several smaller subproblems which could be easily dealt with 
+in separate files.
